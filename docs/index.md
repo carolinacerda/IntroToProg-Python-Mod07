@@ -639,25 +639,17 @@ while True:
 
 The final result of the script in both PyCharm and the OS Command are shown below in Figures 1 and 2, respectively.
 
-![Figure 1a. Final result of script in PyCharm (Part 1)]()
+![Figure 1a. Final result of script in PyCharm (Part 1)](https://raw.githubusercontent.com/carolinacerda/IntroToProg-Python-Mod07/main/docs/Figure1a_Script_in_PyCharm.png "Final Result of Script in PyCharm (Part 1)")
 
-![Figure 1b. Final result of script in PyCharm (Part 2)]()
+![Figure 1b. Final result of script in PyCharm (Part 2)](https://raw.githubusercontent.com/carolinacerda/IntroToProg-Python-Mod07/main/docs/Figure1b_Script_in_PyCharm.png "Final Result of Script in PyCharm (Part 2)")
 
 
-![Figure 2. Final result of script in OS Command]()
+![Figure 2. Final result of script in OS Command](https://raw.githubusercontent.com/carolinacerda/IntroToProg-Python-Mod07/main/docs/Figure2_Script_in_OS_Command.png "Final Result of Script in OS Command")
 
 Finally, a verification of the success of the script is done by confirming that the data inputted by the user has successfully been saved within the binary file, “AppData.dat” (Figure 3). Binary files are not intended to be readable to the human but instead more readily accessible for the computer thus the following result is a rough confirmation that the data was saved correctly.
 
-![Figure 3. Binary file used in script for data]()
+![Figure 3. Binary file used in script for data](https://raw.githubusercontent.com/carolinacerda/IntroToProg-Python-Mod07/main/docs/Figure3_Binary_File_Used_in_Script.png "Binary File Used in Script for Data")
 
 
 ### Summary
 In this exercise, error handling and pickling were used in order to create a script that manages an interactive Mood Music Library. As no starting script was provided, this investigation was able to promote creativity with the code as well as being able to bring everything we have learned and seen so far together on our own. Additionally, GitHub webpages were expanded upon in further detail in order to practice presenting our work in a more professional and immersive manner for the viewer. The purpose of this investigation was to practice making our own scripts from code we have learned or seen before as well as using error handling and pickling in order to better organize and further improve our scripts as well as to become more familiar with GitHub as a tool for file sharing and storage.
-
-
-### Links
-[Google Homepage](https://www.google.com "Google's Homepage")
-
-[GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-![image](https://user-images.githubusercontent.com/105691291/170149530-35f26035-555b-40ec-9a50-5b6e6e02faa4.png)
