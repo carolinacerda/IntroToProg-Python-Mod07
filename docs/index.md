@@ -10,6 +10,7 @@ This webpage is dedicated to Module 07 - File and Exception for the course Found
 ### Introduction
 In this assignment, a script that manages a mood music library playlist will be created using structured error handling, pickling and binary file to store data. This script will be able to display the user a menu of options and allow them to input an option to run one of the various functions of this program, including viewing the music library, receiving a song suggestion based on their mood, adding new moods and song suggestions, removing an existing mood and suggestion, as well as saving the data to the file and exiting the program. Additionally, this work will be posted to a new GitHub repository that includes a GitHub webpage.
 
+
 ### Creating the Script
 #### Structured Error Handling (Try-Except)
 Errors within the code will likely appear when others use your code based on things such as if they changed the name of the data file or inputting data that doesn’t match the design of the program (R. Root, “Mod7PythonProgrammingNotes”). To provide a safety for these potential errors, it is useful to use a `Try-Except` block which can contain such errors within the program. A `Try-Except` block code can be especially useful when human interaction could be the potential cause of the issue thus within the following script for managing a mood music library this method of structured error handling will be used frequently especially within the “processing” section of the script. This concept will be expanded upon within the following sections.
@@ -26,6 +27,7 @@ To use pickle, it must be imported by using `import keyword` to make code in one
 4	strFileName = 'AppData.dat'
 ```
 *Listing 1*
+
 
 #### PROCESSING
 This section of the script is dedicated to building a class to group functions, or a group of code that performs a specific action, that will process the data within the program. `class Processor` is a class of functions created specifically for the portion of the script that has to do with the processing code (Line 11). This is useful in that it helps to separate the processing portion of the code from the main body and overall makes the code easier to understand and delineate what is processing and what is presentation.
@@ -171,6 +173,7 @@ To create a function that removes data from the list, a `for` loop and `if` stat
 ```
 *Listing 7*
 
+
 #### PRESENTATION (INPUT/OUTPUT)
 This section of the script is dedicated to building a class of functions that will obtain user input and present data output within the program by using a class, “IO”.
 
@@ -310,6 +313,7 @@ To remove a mood from the Music Library, first input from the user must be obtai
 ```
 *Listing 14*
 
+
 #### MAIN BODY OF THE SCRIPT
 This final section of the code is similar to the To-Do List from the assignment from Module 06. The major differences between that script and this one are highlighted here where the position of the `while` loop is brought after the `IO.output_menu_tasks()` function, showing the current data is made an option instead of appearing every time, a new option to get a song recommendation based on user input for mood is added, as well as a few changes the messages using the `print()` function are adjusted to better fit the theme of the program. Lastly, an `else` statement is added to cover for if the user inputs something that is not a number from 1 to 6 based on choices from the menu of options (Lines 255 – 257).
 	
@@ -356,6 +360,7 @@ This final section of the code is similar to the To-Do List from the assignment 
 257	        continue
 ```
 *Listing 15*
+
 
 ### Running the Script
 By building upon previous assignment’s starting scripts as well as the various listing examples provided by Professor Root and in the textbook, *Python® Programming for the Absolute Beginner, Third Edition*, by Michael Dawson, the following completed code that manages a Mood Music Library Playlist is displayed below.
@@ -633,6 +638,16 @@ while True:
 *Listing 16*
 
 The final result of the script in both PyCharm and the OS Command are shown below in Figures 1 and 2, respectively.
+
+![Figure 1a. Final result of script in PyCharm (Part 1)]()
+![Figure 1b. Final result of script in PyCharm (Part 2)]()
+
+![Figure 2. Final result of script in OS Command]()
+
+Finally, a verification of the success of the script is done by confirming that the data inputted by the user has successfully been saved within the binary file, “AppData.dat” (Figure 3). Binary files are not intended to be readable to the human but instead more readily accessible for the computer thus the following result is a rough confirmation that the data was saved correctly.
+
+![Figure 3. Binary file used in script for data]()
+
 
 ### Summary
 In this exercise, error handling and pickling were used in order to create a script that manages an interactive Mood Music Library. As no starting script was provided, this investigation was able to promote creativity with the code as well as being able to bring everything we have learned and seen so far together on our own. Additionally, GitHub webpages were expanded upon in further detail in order to practice presenting our work in a more professional and immersive manner for the viewer. The purpose of this investigation was to practice making our own scripts from code we have learned or seen before as well as using error handling and pickling in order to better organize and further improve our scripts as well as to become more familiar with GitHub as a tool for file sharing and storage.
