@@ -637,25 +637,36 @@ while True:
 ```
 *Listing 16*
 
-The final result of the script in both PyCharm and the OS Command are shown below in Figures 1 and 2, respectively.
+
+
+The final result of the script in both PyCharm and the OS Command are shown below in Figures 1(a and b), and 2, respectively.
+
 
 ![Figure 1a. Final result of script in PyCharm (Part 1)](https://raw.githubusercontent.com/carolinacerda/IntroToProg-Python-Mod07/main/docs/Figure1a_Script_in_PyCharm.png "Final Result of Script in PyCharm (Part 1)")
 
 *Figure 1a. Final Result of Script in PyCharm (Part 1).*
 
+
+
 ![Figure 1b. Final result of script in PyCharm (Part 2)](https://raw.githubusercontent.com/carolinacerda/IntroToProg-Python-Mod07/main/docs/Figure1b_Script_in_PyCharm.png "Final Result of Script in PyCharm (Part 2)")
 
 *Figure 1b. Final Result of Script in PyCharm (Part 2).*
 
+
+
 ![Figure 2. Final result of script in OS Command](https://raw.githubusercontent.com/carolinacerda/IntroToProg-Python-Mod07/main/docs/Figure2_Script_in_OS_Command.png "Final Result of Script in OS Command")
 
 *Figure 2. Final Result of Script in OS Command.*
+
+
 
 Finally, a verification of the success of the script is done by confirming that the data inputted by the user has successfully been saved within the binary file, “AppData.dat” (Figure 3). Binary files are not intended to be readable to the human but instead more readily accessible for the computer thus the following result is a rough confirmation that the data was saved correctly.
 
 ![Figure 3. Binary file used in script for data](https://raw.githubusercontent.com/carolinacerda/IntroToProg-Python-Mod07/main/docs/Figure3_Binary_File_Used_in_Script.png "Binary File Used in Script for Data")
 
 *Figure 3. Binary File Used In Script For Data*
+
+
 
 
 ### Summary
