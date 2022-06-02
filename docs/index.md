@@ -669,9 +669,9 @@ Finally, a verification of the success of the script is done by confirming that 
 #### Creating a more Advanced GitHub Page
 As with Module 06’s assignment, for this module, a GitHub webpage will be created using the same procedure. However, for this week, a more advanced GitHub Page will be created by taking the text, images and links from this document and adding them to the GitHub Page. After creating a new repository for Module 07, “IntroToProg-Python-Mod07”, and creating a new folder, “docs”, and file, “index.md”, and using this as the source to create a GitHub page, the data from this document can now be transferred. Following the instructions on “Mod07PythonProgramming Notes” as well as from other [online](https://www.youtube.com/watch?v=_1vmtqnKQew&ab_channel=WebCraftie) [resources](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), the webpage created for this assignment is shown below.
 
-![Figure 4. Github Webpage for Module 07](https://raw.githubusercontent.com/carolinacerda/IntroToProg-Python-Mod07/main/docs/Figure4_Mod07_GitHub_Webpage.png "GitHub Webpage for Module 07")
+![Figure 4. GitHub Webpage for Module 07](https://raw.githubusercontent.com/carolinacerda/IntroToProg-Python-Mod07/main/docs/Figure4_Mod07_GitHub_Webpage.png "GitHub Webpage for Module 07")
 
-*Figure 4. Github Webpage for Module 07.*
+*Figure 4. GitHub Webpage for Module 07.*
 
 ### Summary
 In this exercise, error handling and pickling were used in order to create a script that manages an interactive Mood Music Library. As no starting script was provided, this investigation was able to promote creativity with the code as well as being able to bring everything we have learned and seen so far together on our own. Additionally, GitHub webpages were expanded upon in further detail in order to practice presenting our work in a more professional and immersive manner for the viewer. The purpose of this investigation was to practice making our own scripts from code we have learned or seen before as well as using error handling and pickling in order to better organize and further improve our scripts as well as to become more familiar with GitHub as a tool for file sharing and storage.
