@@ -634,6 +634,8 @@ while True:
 
 The final result of the script in both PyCharm and the OS Command are shown below in Figures 1 and 2, respectively.
 
+### Summary
+In this exercise, error handling and pickling were used in order to create a script that manages an interactive Mood Music Library. As no starting script was provided, this investigation was able to promote creativity with the code as well as being able to bring everything we have learned and seen so far together on our own. Additionally, GitHub webpages were expanded upon in further detail in order to practice presenting our work in a more professional and immersive manner for the viewer. The purpose of this investigation was to practice making our own scripts from code we have learned or seen before as well as using error handling and pickling in order to better organize and further improve our scripts as well as to become more familiar with GitHub as a tool for file sharing and storage.
 
 
 ### Links
