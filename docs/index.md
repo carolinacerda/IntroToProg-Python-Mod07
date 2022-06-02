@@ -640,7 +640,9 @@ while True:
 The final result of the script in both PyCharm and the OS Command are shown below in Figures 1 and 2, respectively.
 
 ![Figure 1a. Final result of script in PyCharm (Part 1)]()
+
 ![Figure 1b. Final result of script in PyCharm (Part 2)]()
+
 
 ![Figure 2. Final result of script in OS Command]()
 
